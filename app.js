@@ -15,5 +15,5 @@ const PORT = process.env.PORT ||3000;
 //HOST
 const HOST = process.env.HOST
 // Server Setup
-app.listen(PORT,HOST,console.log(
+app.listen(3000,"184.72.81.67",console.log(
   `Server started on port ${PORT}`));
