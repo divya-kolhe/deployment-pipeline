@@ -1,1 +1,3 @@
 Hi, I am learning Cloud and Devops
+
+Here I am adding new line so that pipeline will be automatically trigeered.
