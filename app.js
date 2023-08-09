@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 // Port Number
 const PORT = process.env.PORT ||5000;
 //HOST
-const HOST = process.env.HOST
+//const HOST = process.env.HOST
 // Server Setup
-app.listen(PORT,HOST,console.log(
+app.listen(PORT,console.log(
   `Server started on port ${PORT}`));
